@@ -72,5 +72,5 @@ To set up and run the application locally, follow these steps:
 
 Contributions are welcome! Please feel free to open issues or submit pull requests.
 
-##You Tube Video Link:
+## YouTube Video Link
 https://youtu.be/xfFbtcBX9Cg?si=hayx0P_6I2rho3wT
