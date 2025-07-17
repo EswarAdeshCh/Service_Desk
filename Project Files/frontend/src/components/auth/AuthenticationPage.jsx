@@ -82,7 +82,7 @@ const AuthenticationPage = ({ setIsAuthenticated }) => {
         <div className="container">
           <div className="navbar-content">
             <a href="/" className="navbar-brand">
-              ServiceDesk Pro
+              Service Desk for Customer Complaint Resolution
             </a>
             <div className="nav-links">
               <a href="/" className="nav-link">
