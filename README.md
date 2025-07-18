@@ -1,6 +1,6 @@
-# Service Desk Application
+# Service Desk for Customer Complaint Resolution
 
-This is a full-stack Service Desk application designed to manage user complaints, agent assignments, and communication. The application consists of a Node.js backend API and a React-based frontend.
+This is a full-stack Service Desk for Customer Complaint Resolution application designed to manage user complaints, agent assignments, and communication. The application consists of a Node.js backend API and a React-based frontend.
 
 ## Features
 
